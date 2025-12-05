@@ -1,0 +1,2 @@
+# LOOKUP
+this is my first Git perository
